@@ -1,0 +1,24 @@
+h1 {
+  color: maroon;
+}
+
+p {
+  font-family: Arial;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.publish-time {
+  color: gray;
+} /* another class added */
+
+#article-title {
+  font-family: cursive;
+  text-transform: capitalize;
+}
