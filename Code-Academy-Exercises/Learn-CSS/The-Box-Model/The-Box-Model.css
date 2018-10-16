@@ -1,0 +1,5 @@
+.box-model-graphic {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/diagram-boxmodel.svg');
+  max-width: 600px;
+  height: auto;
+}
