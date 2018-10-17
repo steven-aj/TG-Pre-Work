@@ -1,0 +1,5 @@
+/*
+In the default box model, the content-width and width of the element are not
+synonymous with each other. Rather, content-width is included in the element's
+padding and border-thickness when measuring the element's overall dimensions.
+*/
