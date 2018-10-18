@@ -1,0 +1,12 @@
+/* May be considered readable in long paragraphs of text on higher resolution
+screens*/
+
+p .label {
+  font-family: serif;
+}
+
+/* Probably the better option for all screens.*/
+
+p .label {
+  font-familY: sans-serif;
+}
