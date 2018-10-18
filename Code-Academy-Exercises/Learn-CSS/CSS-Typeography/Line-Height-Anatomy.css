@@ -1,0 +1,8 @@
+/*
+  Line height is the difference in distance between the bottom of each Line
+  of text
+*/
+
+p {
+  line-height: 2.0em;
+}
