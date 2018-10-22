@@ -1,0 +1,3 @@
+/*
+  Higher order functions consume functions and return functions.
+*/
