@@ -1,0 +1,4 @@
+/*
+  Classes can also inherit properties and methods from other classes for further
+  abstraction of data.
+*/
