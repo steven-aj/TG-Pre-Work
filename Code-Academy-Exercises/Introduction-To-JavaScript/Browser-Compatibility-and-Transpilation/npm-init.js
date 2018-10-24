@@ -1,0 +1,4 @@
+/*
+  Will initialize a new json package for use with NPM libraries
+    npm init
+*/
